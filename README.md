@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Gediya
 - 👀 I’m interested in Full Stake Development.
-- 🌱 I’m currently working on React JS, Node JS, MongoDB, HTML, CSS, Javascript, Flutter, Odoo and UI/UX Design
+- 🌱 I’m currently working on Odoo ERP, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on project implementation
 - 📫 How to reach me vvgediya@gmail.com
 
